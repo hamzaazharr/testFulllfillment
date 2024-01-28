@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/plugin-critical": "^0.2.0",
+    "axios": "^1.6.5",
+    "bootstrap-vue": "^2.22.0",
+    "firebase": "^10.7.1",
+    "gridsome": "^0.7.0",
+    "jquery": "^3.7.1",
+    "terser": "^3.14.1",
+    "terser-webpack-plugin": "^4.2.3",
+    "vuetify": "^2.6.4",
+    "webpack": "^4.0.0",
+    "webpack-deep-scope-plugin": "^1.6.2"
+  }
+}
